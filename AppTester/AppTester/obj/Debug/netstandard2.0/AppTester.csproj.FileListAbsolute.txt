@@ -1,0 +1,14 @@
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\bin\Debug\netstandard2.0\AppTester.deps.json
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\bin\Debug\netstandard2.0\AppTester.dll
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\bin\Debug\netstandard2.0\AppTester.pdb
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\obj\Debug\netstandard2.0\AppTester.csproj.AssemblyReference.cache
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\obj\Debug\netstandard2.0\AppTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\obj\Debug\netstandard2.0\AppTester.AssemblyInfoInputs.cache
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\obj\Debug\netstandard2.0\AppTester.AssemblyInfo.cs
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\obj\Debug\netstandard2.0\AppTester.csproj.CoreCompileInputs.cache
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\obj\Debug\netstandard2.0\AppTester.dll
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\obj\Debug\netstandard2.0\AppTester.pdb
+C:\GItTester 1\Mobile App Testers\App 1\AppTester\AppTester\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
